@@ -1,4 +1,4 @@
-# Optimal_control
+# trajectory_optimization
 
 ## Table of Contains
 
